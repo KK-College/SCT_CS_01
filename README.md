@@ -4,9 +4,7 @@ A modern, interactive web-based tool for encrypting and decrypting text using th
 
 ## 🌐 Live Demo
 
-Open the `index.html` file in any modern web browser for an instant live demo. For a hosted version, deploy the web files to GitHub Pages or any static hosting service.
-
-[View Repository](https://github.com/KK-College/SCT_CS_01)
+Experience the web tool in action: [**Caesar Cipher Tool**](https://kk-college.github.io/SCT_CS_01/)
 
 ## ✨ Key Features
 
@@ -40,4 +38,3 @@ Open the `index.html` file in any modern web browser for an instant live demo. F
 2. Follow the prompts to enter your message, shift value, and mode (encrypt/decrypt).
 3. The tool will output the processed text and allow for multiple operations.
 
-**Example CLI Input/Output:**
