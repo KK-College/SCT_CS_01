@@ -1,2 +1,35 @@
-# SCT_CS_01
-A Python tool to encrypt and decrypt text using the Caesar Cipher.
+# Caesar Cipher Web Application 🔒
+
+A modern, user-friendly web-based tool for encrypting and decrypting text using the Caesar Cipher algorithm. Developed as part of the **SkillCraft Technology** internship program, this project showcases fundamental cryptography concepts and front-end web development skills through an intuitive interface.
+
+## 🌐 Live Demo
+
+Explore the deployed application: [**Caesar Cipher Tool**](https://kk-college.github.io/SCT_CS_01/)
+
+## 📷 Preview
+
+![Caesar Cipher Web Tool Interface](https://i.imgur.com/G5c9J5a.png)
+
+## ✨ Key Features
+
+- **Real-Time Encryption & Decryption**: Instantly processes text as users input their message or adjust settings.
+- **Customizable Shift Key**: Supports shift values from 1 to 25 for flexible cipher configurations.
+- **Case Preservation**: Maintains the original case of letters (uppercase/lowercase) during processing.
+- **Non-Alphabetic Character Support**: Preserves symbols, numbers, and spaces in their original positions.
+- **Responsive Design**: Optimized for seamless use across desktop and mobile devices.
+- **Intuitive Interface**: Provides a clean and accessible user experience with immediate feedback.
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Structures the application's content and layout.
+- **CSS3**: Delivers a polished, responsive design with a professional aesthetic.
+- **JavaScript**: Powers the Caesar Cipher algorithm and dynamic user interactions.
+
+## 📖 Usage Instructions
+
+1. Visit the [live demo](https://kk-college.github.io/SCT_CS_01/).
+2. Enter your message in the provided text area.
+3. Specify a shift key (1–25) to determine the cipher's offset (default: 3).
+4. Click the "Encrypt" or "Decrypt" button to view the processed text in the result field.
+
+## 🧩 Project Structure
