@@ -33,3 +33,8 @@ Explore the deployed application: [**Caesar Cipher Tool**](https://kk-college.gi
 4. Click the "Encrypt" or "Decrypt" button to view the processed text in the result field.
 
 ## 🧩 Project Structure
+SCT_CS_01/
+├── index.html        # Main HTML file for the application
+├── styles.css        # CSS for styling and responsive design
+├── script.js         # JavaScript for Caesar Cipher logic and interactivity
+└── README.md         # Project documentation
