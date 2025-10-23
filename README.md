@@ -8,7 +8,8 @@ Explore the deployed application: [**Caesar Cipher Tool**](https://kk-college.gi
 
 ## 📷 Preview
 
-![Caesar Cipher Web Tool Interface](https://i.imgur.com/G5c9J5a.png)
+![Caesar Cipher Web Tool Interface](<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/dcb4a634-f0d8-48f7-a52c-94fbbd2b7f77" />
+)
 
 ## ✨ Key Features
 
